@@ -43,8 +43,14 @@ This project is an image encryption application developed in Python using the Ad
 
 **Project Structure**
     image_encryption_app.py: The main Python script for the image encryption application.
+
+    
     secret.jpeg: A generated secret image for encryption.
+    
+    
     visual_encrypt.jpeg: The encrypted image.
+    
+    
     visual_decrypt.jpeg: The decrypted image
 
 **Contact**:
