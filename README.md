@@ -48,8 +48,9 @@ This project is an image encryption application developed in Python using the Ad
     visual_decrypt.jpeg: The decrypted image
 
 **Contact**:
-For questions or feedback, please contact the project maintainer:
+      For questions or feedback, please contact the project maintainer:
 
-Name: Anuj Singh Chauhan
-Email: ansinghch@gmail.com
+      Name: Anuj Singh Chauhan
+
+      Email: ansinghch@gmail.com
 
