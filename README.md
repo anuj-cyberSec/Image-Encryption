@@ -15,7 +15,7 @@ This project is an image encryption application developed in Python using the Ad
 ## Getting Started
 
 **Clone the Repository:**
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/anuj-cyberSec/Image-Encryption
    cd your-repo
 
 
